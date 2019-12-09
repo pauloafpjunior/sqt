@@ -1007,7 +1007,7 @@ MonoBehaviour:
   sfxTerminou: {fileID: 8300000, guid: c6bf1f2583ac3a8ba80ff5c6793d09d3, type: 3}
   JogarComTempo: 1
   TempoParaResponder: 30
-  ultimoTema: 1
+  ultimoTema: 0
   paineis:
   - {fileID: 295767817}
   - {fileID: 896637400}

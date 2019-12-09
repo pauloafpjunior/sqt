@@ -847,8 +847,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: As perguntas deste quiz foram desenvolvidas por Paulo Afonso Parreira Jr,
-    com base no livro "Somos todos teologos", de R.C. Sproul. 2017. Editora Fiel.
+  m_Text: As perguntas deste quiz foram desenvolvidas com base no livro "Somos todos
+    teologos", de R.C. Sproul. 2017. Editora Fiel.
 --- !u!222 &901104833
 CanvasRenderer:
   m_ObjectHideFlags: 0
