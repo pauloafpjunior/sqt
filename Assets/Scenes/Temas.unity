@@ -768,7 +768,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   IdTema: 2
-  NomeTema: Teontologia
+  NomeTema: Bibliologia
   estaBloqueado: 1
   IdTemaTxt: {fileID: 423446174}
   Estrelas:
@@ -1547,7 +1547,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   IdTema: 6
-  NomeTema: Soteriologia
+  NomeTema: Pneumatologia
   estaBloqueado: 1
   IdTemaTxt: {fileID: 658352071}
   Estrelas:
@@ -2509,7 +2509,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   IdTema: 5
-  NomeTema: Pneumatologia
+  NomeTema: Cristologia
   estaBloqueado: 1
   IdTemaTxt: {fileID: 1505630500}
   Estrelas:
@@ -3415,7 +3415,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   IdTema: 3
-  NomeTema: Antropologia e hamartologia
+  NomeTema: Teontologia
   estaBloqueado: 1
   IdTemaTxt: {fileID: 446500796}
   Estrelas:
@@ -4715,7 +4715,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   IdTema: 8
-  NomeTema: Bibliologia
+  NomeTema: Eclesiologia
   estaBloqueado: 1
   IdTemaTxt: {fileID: 331832545}
   Estrelas:
@@ -6034,7 +6034,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   IdTema: 7
-  NomeTema: Eclesiologia
+  NomeTema: Soteriologia
   estaBloqueado: 1
   IdTemaTxt: {fileID: 1930885003}
   Estrelas:
@@ -7468,7 +7468,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   IdTema: 4
-  NomeTema: Cristologia
+  NomeTema: Antropologia e hamartologia
   estaBloqueado: 1
   IdTemaTxt: {fileID: 398219595}
   Estrelas:

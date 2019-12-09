@@ -945,39 +945,37 @@ MonoBehaviour:
   dangerColor: {r: 1, g: 0.16862746, b: 0.16862746, a: 1}
   BtnAlternativas: []
   Perguntas:
-  - {fileID: 21300000, guid: e036daf95815ef4c1bb363c322f5b10c, type: 3}
-  - {fileID: 21300000, guid: 60b50a844ea2908a9b7bb28eb6e72a22, type: 3}
-  - {fileID: 21300000, guid: 25960986ea03f298d88cc0c3188bc6d0, type: 3}
-  - {fileID: 21300000, guid: 78a9d56e2ac67061f80831c4c3193d42, type: 3}
-  - {fileID: 21300000, guid: 38eb05e2795af13038a48d3d5bb7a3b6, type: 3}
-  - {fileID: 21300000, guid: 7f47530cb7248fe35bb956f2ffaaa379, type: 3}
-  - {fileID: 21300000, guid: 326e3ccfa5884d00685096306ca36414, type: 3}
-  - {fileID: 21300000, guid: 33e3752ab74e56604809f6d45e30f8d3, type: 3}
-  - {fileID: 21300000, guid: 1c40236204a7d5f0f90278e318c925b7, type: 3}
-  - {fileID: 21300000, guid: c31ea543b4cee120a84b87f888800859, type: 3}
-  - {fileID: 21300000, guid: 50840367c3e89b385a2ab29c0473a7c5, type: 3}
-  - {fileID: 21300000, guid: aac2ef8a7ef9977e7a733d37a2ece9ef, type: 3}
-  - {fileID: 21300000, guid: f263c57a48301fc82b77176684a069e6, type: 3}
-  - {fileID: 21300000, guid: bf4ad382b5f64dc249541f1c823dbef1, type: 3}
-  - {fileID: 21300000, guid: 256b43ad8f4b5155ba2878e10c064bf5, type: 3}
-  - {fileID: 21300000, guid: 24bcd4027c90708d6ba57baf04799f60, type: 3}
+  - {fileID: 21300000, guid: af5d84b3b490573ff9b04e347e2e56fc, type: 3}
+  - {fileID: 21300000, guid: c5659307f40293604beb95b4a0c1962d, type: 3}
+  - {fileID: 21300000, guid: dab385861b55ca7aea5f0812854339bb, type: 3}
+  - {fileID: 21300000, guid: 4d5ffb21feb2b77dbad9471f9264763d, type: 3}
+  - {fileID: 21300000, guid: 4c81b9e3ba861b033923d756b5662cc8, type: 3}
+  - {fileID: 21300000, guid: f32197a6bebd631d4b0815d5bf5ce32c, type: 3}
+  - {fileID: 21300000, guid: 96fd4706f09baf704adcf76dd4bda52e, type: 3}
+  - {fileID: 21300000, guid: 8ffd31424b823f6f3afcfced4c7eb7ae, type: 3}
+  - {fileID: 21300000, guid: c690d20555d34ff3f9d54ef906cc49aa, type: 3}
+  - {fileID: 21300000, guid: 4f91ff2b1b16b99eea5324a8bdc80da6, type: 3}
+  - {fileID: 21300000, guid: cc80aa021837e021babda798b8822276, type: 3}
+  - {fileID: 21300000, guid: bc0aeb716cb4d4677a561b92a6671af5, type: 3}
+  - {fileID: 21300000, guid: dad3bfdbfa244f1aba79ac30e53ac875, type: 3}
+  - {fileID: 21300000, guid: 75aeef33db73c103a9f8a3760f64e955, type: 3}
+  - {fileID: 21300000, guid: 642b6f19a1ed6804f8bc773f71ab9745, type: 3}
   Respostas:
-  - A
-  - D
-  - A
-  - C
-  - C
-  - C
-  - B
   - D
   - B
-  - B
-  - B
+  - A
   - D
   - C
   - A
-  - A
   - C
+  - B
+  - A
+  - D
+  - A
+  - A
+  - A
+  - B
+  - D
   Estrelas:
   - {fileID: 1000193640}
   - {fileID: 2064321098}

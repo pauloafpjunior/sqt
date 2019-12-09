@@ -945,59 +945,33 @@ MonoBehaviour:
   dangerColor: {r: 1, g: 0.16862746, b: 0.16862746, a: 1}
   BtnAlternativas: []
   Perguntas:
-  - {fileID: 21300000, guid: 59156ccd5f0354396b12a2e979b30666, type: 3}
-  - {fileID: 21300000, guid: b775d16ab0ceecaccb8c220657c86507, type: 3}
-  - {fileID: 21300000, guid: 9a90aefd4e7e13b42970a34f06a234d3, type: 3}
-  - {fileID: 21300000, guid: 02bcb62be4411a67f9f8782550fb3b67, type: 3}
-  - {fileID: 21300000, guid: 8384d6a9f5c3014e5b8a18a877561216, type: 3}
-  - {fileID: 21300000, guid: 3edcdf19749ea64ffb3392370bae9491, type: 3}
-  - {fileID: 21300000, guid: faea4a66de35725cdb23faff2db55e9a, type: 3}
-  - {fileID: 21300000, guid: 799477aef07d0351e873e8396e5d6301, type: 3}
-  - {fileID: 21300000, guid: 68d1d504d223643dc8d56913db729a79, type: 3}
-  - {fileID: 21300000, guid: 73484c8824fccb232bf745dfc8f5f8a9, type: 3}
-  - {fileID: 21300000, guid: 6d596c6339a84d2e494d72cb32f84bc5, type: 3}
-  - {fileID: 21300000, guid: 649cede5c1058181fb0ad1a9889e8226, type: 3}
-  - {fileID: 21300000, guid: 278841acc99b65011bdff37677c3e724, type: 3}
-  - {fileID: 21300000, guid: 25b774c2f1db87984bb023111201c12a, type: 3}
-  - {fileID: 21300000, guid: bd27695b331ba49f58866a87862e97a3, type: 3}
-  - {fileID: 21300000, guid: 41833e8e17990fdffbbaaced094a9f6f, type: 3}
-  - {fileID: 21300000, guid: 3c10b27064b296e77a4e175fdf3079ec, type: 3}
-  - {fileID: 21300000, guid: 5f62de1959c19e6a3b285ccddfafb3aa, type: 3}
-  - {fileID: 21300000, guid: 1cbb91253a80afcb593dcdc412425493, type: 3}
-  - {fileID: 21300000, guid: b8bacbc33a6bfa1828fe8b7f460e9433, type: 3}
-  - {fileID: 21300000, guid: 575f07ae63c56961997606621b9e65a5, type: 3}
-  - {fileID: 21300000, guid: 3d460e735f9f33395aa1846bcf67ebb5, type: 3}
-  - {fileID: 21300000, guid: 4a74c4f69e7ecb3698645d5999bc47d3, type: 3}
-  - {fileID: 21300000, guid: 4fad80033b0ff04b5bf07db859534601, type: 3}
-  - {fileID: 21300000, guid: 7129dc6651c7c8da6b2631e9cb42aefa, type: 3}
-  - {fileID: 21300000, guid: c764db5aa0aef1b6d853a1e66733b209, type: 3}
+  - {fileID: 21300000, guid: 49962cbfc4feaa592b4f61f0d2670099, type: 3}
+  - {fileID: 21300000, guid: e8f7b6e4a843075259c0a80fc4b97989, type: 3}
+  - {fileID: 21300000, guid: fd0151d8391b5692e8cf9298c5b504da, type: 3}
+  - {fileID: 21300000, guid: 3c536f88764eb1c86a6b21a430e9725e, type: 3}
+  - {fileID: 21300000, guid: 947f64cda780d2f8fb8355050336b598, type: 3}
+  - {fileID: 21300000, guid: de13c42660b85c5818bccac77856cbe2, type: 3}
+  - {fileID: 21300000, guid: 4eafc7d26f9d8448db8f0ae93762df35, type: 3}
+  - {fileID: 21300000, guid: 23d5c999e90a9db5888d322c100b7587, type: 3}
+  - {fileID: 21300000, guid: 4f70953015a821593a7e9294f718b3c8, type: 3}
+  - {fileID: 21300000, guid: 05226617fb37473b782bf7b0b5c14519, type: 3}
+  - {fileID: 21300000, guid: 388d061db90a991c5add0873a49a7060, type: 3}
+  - {fileID: 21300000, guid: 9cdc471d40235edd8a5bdbcec4c1bc7d, type: 3}
+  - {fileID: 21300000, guid: 9f996a0abfae72452a30035547c569ad, type: 3}
   Respostas:
-  - C
   - A
-  - C
-  - D
-  - A
-  - A
-  - A
-  - C
-  - D
   - A
   - D
-  - A
-  - C
-  - C
-  - C
-  - A
-  - B
   - C
   - D
-  - D
+  - C
   - A
-  - B
+  - C
+  - C
   - A
   - C
   - B
-  - B
+  - D
   Estrelas:
   - {fileID: 1000193640}
   - {fileID: 2064321098}
@@ -1007,7 +981,6 @@ MonoBehaviour:
   sfxTerminou: {fileID: 8300000, guid: c6bf1f2583ac3a8ba80ff5c6793d09d3, type: 3}
   JogarComTempo: 1
   TempoParaResponder: 30
-  ultimoTema: 0
   paineis:
   - {fileID: 295767817}
   - {fileID: 896637400}
@@ -1037,7 +1010,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 368fbbeee03f8fa35832deb4020b4dcd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  paineis: []
 --- !u!82 &714907967
 AudioSource:
   m_ObjectHideFlags: 0
