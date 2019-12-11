@@ -170,26 +170,30 @@ public class QuizController : MonoBehaviour
         }
         else
         {
-            sfxPlay(sfxTerminou);
-            int notaFinalAux = Mathf.RoundToInt(QtdeAcertos * NotaPorPergunta);
-
-            if (notaFinalAux > NotaFinal)
-            {
-                NotaFinal = notaFinalAux;
-            }
-
-            PlayerPrefs.SetInt("NotaFinal_" + IdTema.ToString(), NotaFinal);
-
-
-            NotaFinalTxt.text = NotaFinal.ToString();
-            int NumEstrelas = CalculaEstrelas();
-
-            if (ultimoTema && NumEstrelas == MAX_ESTRELAS)
-            {
-                PlayerPrefs.SetInt("Certificado", 1);
-            }
-            atualizarPaineis(false, true); // jogo terminou
-
+            terminou();
         }
+    }
+
+    public void terminou()
+    {
+        sfxPlay(sfxTerminou);
+        int notaFinalAux = Mathf.RoundToInt(QtdeAcertos * NotaPorPergunta);
+
+        if (notaFinalAux > NotaFinal)
+        {
+            NotaFinal = notaFinalAux;
+        }
+
+        PlayerPrefs.SetInt("NotaFinal_" + IdTema.ToString(), NotaFinal);
+
+
+        NotaFinalTxt.text = NotaFinal.ToString();
+        int NumEstrelas = CalculaEstrelas();
+
+        if (ultimoTema && NumEstrelas == MAX_ESTRELAS)
+        {
+            PlayerPrefs.SetInt("Certificado", 1);
+        }
+        atualizarPaineis(false, true); // jogo terminou
     }
 }

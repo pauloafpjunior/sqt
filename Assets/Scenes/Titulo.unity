@@ -764,7 +764,6 @@ MonoBehaviour:
   paineis:
   - {fileID: 539824423}
   - {fileID: 1808145729}
-  - {fileID: 0}
 --- !u!4 &714907965
 Transform:
   m_ObjectHideFlags: 0
